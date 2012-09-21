@@ -1,0 +1,20 @@
+
+C r u m p e t s
+
+  A simple project skeleton for Brunch [http://brunch.io], based on Brunch with
+  Crumbs, but with Crumpets instead.
+
+
+Usage
+-----
+
+  brunch new <app> -s https://github.com/rtxanson/brunch-crumpets
+
+
+Features
+--------
+
+  Uses CoffeeScript, Backbone, jQuery, Underscore, Stylus, Eco, H5BP.
+
+  Includes Nginx/Heroku config and basic Docco generator.
+
